@@ -1,0 +1,36 @@
+_repo: Nukki-Novelli_55204
+_version: 0.0.1
+alternative_title: Poupette. Finnish
+contributor:
+  translator:
+    agent_name: Wuori, Martti
+    birthdate: 1858
+    deathdate: 1934
+    gutenberg_agent_id: '26501'
+    url: http://www.gutenberg.org/2009/agents/26501
+creator:
+  author:
+    agent_name: Prévost, Marcel
+    aliases:
+    - Prevost, Marcel
+    - Marcel Prévost
+    birthdate: 1862
+    deathdate: 1941
+    gutenberg_agent_id: '4089'
+    url: http://www.gutenberg.org/2009/agents/4089
+    wikipedia: http://en.wikipedia.org/wiki/Marcel_Prévost
+description: ''
+gutenberg_issued: '2017-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55204'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into Finnish'
+- !lcc 'PQ'
+- GITenberg
+title: 'Nukki: Novelli'
+url: http://www.gutenberg.org/ebooks/55204
